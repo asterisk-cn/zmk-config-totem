@@ -52,11 +52,13 @@
         equal {
             bindings = <&kp EQUAL>;
             key-positions = <8 9>;
+            layers = <0>;
         };
 
         backslash {
             bindings = <&kp BACKSLASH>;
             key-positions = <18 19>;
+            layers = <0>;
         };
     };
 
